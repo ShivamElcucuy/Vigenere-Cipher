@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CharactersInPlay
+comment0.text=\r\n\ Write\ a\ description\ of\ CharactersInPlay\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CharactersInPlay()
+comment2.params=person
+comment2.target=void\ update(java.lang.String)
+comment3.params=
+comment3.target=void\ findAllCharacter()
+comment4.params=num1\ num2
+comment4.target=void\ charactersWithNumParts(int,\ int)
+comment5.params=
+comment5.target=void\ testCharctersWithNumParts()
+comment6.params=
+comment6.target=void\ testFindAllCharacter()
+numComments=7
